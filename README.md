@@ -1,3 +1,5 @@
+# Udemy Redux の練習用リポジトリ
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
